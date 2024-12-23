@@ -21,9 +21,9 @@ This is a SvelteKit project that uses Magic Links for authentication.
 4. Run `npm run dev` to start the development server
 5. Open your web browser and navigate to `http://localhost:5173`
 
-> > [!TIP]
-> > I am using mail server localhost:1025 with SMTP.
-> > software: [Mailpit](https://github.com/axllent/mailpit)
+> [!TIP]
+> I am using mail server localhost:1025 with SMTP.
+> software: [Mailpit](https://github.com/axllent/mailpit)
 
 ## 🔑 Usage
 
